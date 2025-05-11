@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWUybnY2cDBoZW1raXNvcGx5dDI1OXJzNnhnNTVueXFwNDRtNmJhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oZ9TPyHgEDA1gfqhtr/giphy.gif" width="400px" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/oZ9TPyHgEDA1gfqhtr/giphy.gif" width="400px" alt="Coding Animation"/>
 </p>
 
 <h2 align="center">👩‍💻 Olá, eu sou a Emanuelle!</h2>
 
 <p align="center">
-Entre algoritmos e cafés, estou construindo minha jornada na tecnologia — com entusiasmo, dedicação e um toque de revolução 🚀  
+Entre algoritmos e cafés, estou construindo minha jornada na tecnologia — Em cada café, um novo código; em cada linha, um novo desafio. 🚀  
 </p>
 
 ---
