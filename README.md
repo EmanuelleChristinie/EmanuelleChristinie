@@ -1,6 +1,6 @@
 ## 👩‍💻 Hi there, I'm Emanuelle!
 
-Between algorithms and coffee, I'm building my journey in technology — with enthusiasm, dedication, and a bit of revolution 🚀
+"Between algorithms and coffee, I'm building my journey in technology — with every cup, a new line of code; with every line, a new challenge."
 
 ### 💡 About Me:
 - 🎓 University student in progress
