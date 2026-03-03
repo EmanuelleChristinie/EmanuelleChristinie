@@ -7,7 +7,8 @@
 - 🌐 Languages:
   - Portuguese (native)
   - English (fluent)
-  - Spanish (advanced)
+  - Corean (Elementary/Waystage)
+  - Italian (Elementary/Waystage)
 - 🤖🧠 Focused on learning and working with AI
   
 📍Available for job opportunities or collaborations
